@@ -35,3 +35,48 @@ body {
   height: 79px;
   transform: scale(0.3, 0.3);
 }
+
+.cloud1 {
+  background: url(../images/cloud-1.png);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 123px;
+  height: 62px;
+}
+
+.cloud2 {
+  background: url(../images/cloud-2.png);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 238px;
+  height: 93px;
+}
+
+.cloud3 {
+  background: url(../images/cloud-3.png);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 236px;
+  height: 80px;
+}
+
+.cloud4 {
+  background: url(../images/cloud-4.png);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 416px;
+  height: 81px;
+}
+
+.cloud5 {
+  background: url(../images/cloud-5.png);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 197px;
+  height: 95px;
+}
