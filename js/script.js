@@ -17,8 +17,9 @@ function setClouds() {
     clouds.appendChild(cloud);
 
     //set position
-    cloud.style.left = random(-50, (-window.innerWidth * 2)) + "px";
+    cloud.style.left = random(-50, -window.innerWidth * 2) + "px";
     cloud.style.top = random(0, window.innerHeight) + "px";
+    cloud.style.zIndex = random(1, 10);
   }
 }
 
